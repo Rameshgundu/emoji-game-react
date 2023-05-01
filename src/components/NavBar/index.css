@@ -1,0 +1,29 @@
+/* Write your code here. */
+.navbar-container {
+  height: 9vh;
+  background-color: #ffffff33;
+  display: flex;
+  align-items: center;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-left: 150px;
+}
+.emoji-heading {
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
+.score-container {
+  display: flex;
+  align-items: center;
+  margin-left: 380px;
+}
+.display-score {
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  margin-right: 15px;
+  margin-left: 15px;
+}
